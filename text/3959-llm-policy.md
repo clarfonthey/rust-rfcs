@@ -587,12 +587,13 @@ Note: thank you to Jane Losare-Lusby (@yaahc) for [collecting these summaries](h
 
 [Firefox](https://firefox-source-docs.mozilla.org/contributing/ai-coding.html) reiterates that humans are responsible for changes but does not require disclosure.
 
+[Debian](https://www.debian.org/vote/2026/vote_002#texte) [voted](https://lists.debian.org/debian-vote/2026/08/msg00360.html) to "neither [endorse] nor [prohibit] the use of generative AI tools in the [...] within the Debian Project."
+
 #### In progress
 
 The following projects are currently discussing policy, but have not yet adopted it:
 
 * [Emacs](https://human-emacs.org)
-* [Debian](https://www.debian.org/vote/2026/vote_002)
 
 The following policies exist, but are not final:
 
