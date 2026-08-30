@@ -419,6 +419,14 @@ Additionally, LLM contributions generally require stricter scrutiny than manuall
 
 Whatever policy is adopted, it should be symmetric between project members and new contributors.
 
+### Team-specific policies
+
+This policy explicitly ensures project-wide consistency over team-specific customisation. The reality is that a very large number of decisions happen in cross-team spaces, that teams intersect a lot, and that the project has a very large number of common standards such as the Code of Conduct.
+
+This RFC focuses very heavily on harm reduction, and harms aren't doled out or judged based upon team-specific usage; they apply to everyone. Additionally, as already mentioned, teams not only intersect a lot in their formal membership, but informally as well, since many members will offer contributions to other teams they aren't on.
+
+It makes a lot of sense for teams to be able to prioritise issues and run meetings differently for organisation, but it does not make sense to have wildly differing standards for triage, code quality, and tool usage. Everyone on the team should have the same standards applied so that they can be enforced fairly.
+
 ## Prior art
 [prior art]: #prior-art
 
