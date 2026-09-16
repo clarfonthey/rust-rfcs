@@ -581,6 +581,8 @@ Note: thank you to Jane Losare-Lusby (@yaahc) for [collecting these summaries](h
 
 [IzzyOnDroid](https://izzyondroid.org/docs/general/AppInclusionPolicy/#ai-policy) strongly opposes apps which are "fully or in part created by generative AI tools," citing copyright, morality/ethics, climate, and infra reasons. They explicitly state that documentation may be LLM-generated, but code must not be.
 
+[Bevy](https://bevy.org/learn/contribute/policies/ai/) forbids AI-generated media, prose, and communication but specifically allows AI-generated code as long as it is disclosed and high-quality.
+
 #### Disclosure-sometimes-required
 
 [Curl](https://curl.se/dev/contribute.html#on-ai-use-in-curl) requires disclosure when AI is used to find security issues. They recommend mentioning when machine translation is used, but do not strictly require it. They don't require disclosure for code, but emphasize that quality must not be compromised.
